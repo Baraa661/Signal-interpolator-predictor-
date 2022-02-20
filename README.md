@@ -15,6 +15,6 @@ the error map among: 1- number of chunks
 - When the user clicks a button to initiate the error map, a progress bar should show the status of the generation process, and the clicked button turns into a “cancel” button where the user can click it to stop the process and return to the normal status.
 - To illustrate the extrapolation efficacy, there is an option to clip the curve fitting process into only portion of the open signal. For example, apply the fitting process on only 50% or 60%,...or 90% of the signal. Then, the fitted curve should be plotted for the whole signal. i.e., the last portion is practically extrapolated.
 
-
+# Demo
 
 ![UI demo](https://user-images.githubusercontent.com/61358818/154854986-b97f38b3-8648-4627-8795-1f5b32530445.gif)
