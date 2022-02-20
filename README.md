@@ -32,8 +32,4 @@ stop the process and return to the normal status.
 - To illustrate the extrapolation efficacy, there should be an option to clip the curve fitting process into only
 portion of the open signal. For example, apply the fitting process on only 50% or 60%,...or 90% of the signal.
 Then, the fitted curve should be plotted for the whole signal. i.e., the last portion is practically extrapolated.
-Propose your own UI elements that make this process easy to handle, convenient and visually obvious for!
-
-[ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/61358818/154853920-40eb67e3-430a-4fd9-bef1-e3c4408dda79.gif)
-
-the user.
+Propose your own UI elements that make this process easy to handle, convenient and visually obvious
